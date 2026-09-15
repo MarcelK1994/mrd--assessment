@@ -1,0 +1,110 @@
+[
+  {
+    "id": "burger-classic",
+    "name": "Classic Beef Burger",
+    "category": "Burgers",
+    "description": "Juicy beef patty with lettuce, tomato and cheddar.",
+    "price": 120,
+    "available": true,
+    "deliveryEstimate": "25-35 min"
+  },
+  {
+    "id": "burger-chicken",
+    "name": "Crispy Chicken Burger",
+    "category": "Burgers",
+    "description": "Crispy chicken fillet with slaw and spicy mayo.",
+    "price": 110,
+    "available": true,
+    "deliveryEstimate": "20-30 min"
+  },
+  {
+    "id": "burger-veggie",
+    "name": "Veggie Burger",
+    "category": "Burgers",
+    "description": "Plant-based patty with avocado and rocket.",
+    "price": 100,
+    "available": false,
+    "deliveryEstimate": "30-40 min"
+  },
+  {
+    "id": "pizza-margherita",
+    "name": "Margherita Pizza",
+    "category": "Pizza",
+    "description": "Classic pizza with tomato, basil and mozzarella.",
+    "price": 150,
+    "available": true,
+    "deliveryEstimate": "30-40 min"
+  },
+  {
+    "id": "pizza-pepperoni",
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "description": "Spicy pepperoni with mozzarella and tomato sauce.",
+    "price": 180,
+    "available": true,
+    "deliveryEstimate": "35-45 min"
+  },
+  {
+    "id": "pizza-veg",
+    "name": "Veggie Supreme Pizza",
+    "category": "Pizza",
+    "description": "Pepper, olives, onion and mushrooms on a tomato base.",
+    "price": 170,
+    "available": false,
+    "deliveryEstimate": "40-50 min"
+  },
+  {
+    "id": "drink-coke",
+    "name": "Coca Cola",
+    "category": "Drinks",
+    "description": "Classic chilled soft drink.",
+    "price": 35,
+    "available": true,
+    "deliveryEstimate": "10 min"
+  },
+  {
+    "id": "drink-juice",
+    "name": "Fresh Orange Juice",
+    "category": "Drinks",
+    "description": "Freshly pressed orange juice.",
+    "price": 45,
+    "available": true,
+    "deliveryEstimate": "12 min"
+  },
+  {
+    "id": "drink-water",
+    "name": "Sparkling Water",
+    "category": "Drinks",
+    "description": "Bubbly water with lime.",
+    "price": 25,
+    "available": true,
+    "deliveryEstimate": "8 min"
+  },
+  {
+    "id": "dessert-cake",
+    "name": "Chocolate Fudge Cake",
+    "category": "Desserts",
+    "description": "Rich chocolate sponge with fudge topping.",
+    "price": 95,
+    "available": true,
+    "deliveryEstimate": "15-20 min"
+  },
+  {
+    "id": "dessert-icecream",
+    "name": "Vanilla Ice Cream",
+    "category": "Desserts",
+    "description": "Creamy vanilla scoop with caramel drizzle.",
+    "price": 80,
+    "available": false,
+    "deliveryEstimate": "15 min"
+  },
+  {
+    "id": "salad-caesar",
+    "name": "Caesar Salad",
+    "category": "Salads",
+    "description": "Cos lettuce, parmesan and grilled chicken.",
+    "price": 130,
+    "available": true,
+    "deliveryEstimate": "15-25 min"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "mrd--assessment",
+  "version": "1.0.0",
+  "description": "A TypeScript full-stack catalogue search assessment application.",
+  "main": "server/app.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch server/app.ts",
+    "build": "tsc --project tsconfig.json && vite build",
+    "start": "tsx server/app.ts",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "search",
+    "assessment"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.5.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.1"
+  }
+}
